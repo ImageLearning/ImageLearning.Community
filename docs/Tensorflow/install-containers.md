@@ -3,7 +3,7 @@ layout: default
 title: Container Install
 nav_order: 1
 parent: Installing Tensorflow
-grandparent: Tensorflow
+grandparent: Tensorflow Home
 has_children: false
 ---
 
