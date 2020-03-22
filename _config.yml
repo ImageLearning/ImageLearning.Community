@@ -7,7 +7,6 @@ repository: pauliver/imagelearning.community
 # theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 
-
 # Aux links for the upper right navigation
 aux_links:
   "Image Learning":
@@ -15,7 +14,6 @@ aux_links:
 
 # Supports true (default) or false/nil
 heading_anchors: true
-
 
 footer_content: "Copyright &copy; 2019-2020 Paul Oliver. Distributed by an <a href=\"https://github.com/ImageLearning/ImageLearning.Community/blob/master/LICENSE\">MIT license.</a>"
 
