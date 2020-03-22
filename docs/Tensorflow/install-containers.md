@@ -13,8 +13,13 @@ grandparent: Tensorflow
 ## Linux
 
 [https://hub.docker.com/r/nvidia/cuda/](https://hub.docker.com/r/nvidia/cuda/)
-
 On Linux using [Nvidia Docker](https://github.com/NVIDIA/nvidia-docker) you can virtualize the GPU
+
+[https://gitlab.com/nvidia/container-images/cuda](https://gitlab.com/nvidia/container-images/cuda)
+
+Nvidia's Container stuff is spread across GitLab, and GitHub:
+- https://gitlab.com/nvidia
+- https://github.com/NVIDIA/
 
 ## Windows
 
