@@ -17,7 +17,7 @@ On Linux using [Nvidia Docker](https://github.com/NVIDIA/nvidia-docker) you can 
 
 [https://gitlab.com/nvidia/container-images/cuda](https://gitlab.com/nvidia/container-images/cuda)
 
-Nvidia's Container stuff is spread across GitLab, and GitHub:
+Nvidia's Container work is spread across GitLab, and GitHub:
 - https://gitlab.com/nvidia
 - https://github.com/NVIDIA/
 
