@@ -3,7 +3,7 @@ layout: default
 title: Installing Tensorflow
 nav_order: 2
 has_children: true
-parent: Tensorflow
+parent: Tensorflow Home
 ---
 
 # Tensorflow Install Instructions
