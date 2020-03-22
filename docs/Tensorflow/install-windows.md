@@ -9,7 +9,7 @@ has_children: false
 
 # Instructions
 
-We will be installing Tensorflow 2, with GPU support (Nvidia GPU's w/ CUDA) on windows. Today, since the [Container option](install-container.md] does not support the CUDA features we need, we will not use that. When that does, that will be the reccommend path.
+We will be installing Tensorflow 2, with GPU support (Nvidia GPU's w/ CUDA) on windows. Today, since the [Container option](install-container.md) does not support the CUDA features we need, we will not use that. When that does, that will be the reccommend path.
 
 ## Windows Pre-Req's
 
