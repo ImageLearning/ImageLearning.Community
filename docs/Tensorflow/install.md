@@ -22,4 +22,4 @@ Basic Tensorflow install instructions are avialable here:
 
 ## Pip & tools
 
-[PiP instructions]()
+[PiP instructions](https://www.tensorflow.org/install/pip)
