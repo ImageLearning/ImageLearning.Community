@@ -5,6 +5,8 @@ repository: pauliver/imagelearning.community
 
 title: Image Learning
 
+permalink: pretty
+
 # Theme
 # theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
