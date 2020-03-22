@@ -12,14 +12,15 @@ grandparent: Tensorflow
 
 ## Linux
 
+[https://hub.docker.com/r/nvidia/cuda/](https://hub.docker.com/r/nvidia/cuda/)
+
 On Linux using [Nvidia Docker](https://github.com/NVIDIA/nvidia-docker) you can virtualize the GPU
-
-
 
 ## Windows
 
-On Windows the GPU [Can be Virtualized, However 3rd party frameworks like CUDA cannot today](https://docs.microsoft.com/en-us/virtualization/windowscontainers/deploy-containers/gpu-acceleration) exploring
+[https://hub.docker.com/_/microsoft-windows](https://hub.docker.com/_/microsoft-windows)
 
-https://hub.docker.com/_/microsoft-windows
+On Windows the GPU [Can be Virtualized, However 3rd party frameworks like CUDA cannot today](https://docs.microsoft.com/en-us/virtualization/windowscontainers/deploy-containers/gpu-acceleration). It appears microsoft is working activly in this space.
+
 
 [Docker Install Instructions](https://github.com/MicrosoftDocs/Virtualization-Documentation/tree/master/windows-container-samples/directx)
