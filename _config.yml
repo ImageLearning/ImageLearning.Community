@@ -23,7 +23,7 @@ heading_anchors: true
 
 footer_content: "Copyright &copy; 2019-2020 Paul Oliver. Distributed by an <a href=\"https://github.com/ImageLearning/ImageLearning.Community/blob/master/LICENSE\">MIT license.</a>"
 
-color_scheme: nil
+color_scheme: "nil"
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
