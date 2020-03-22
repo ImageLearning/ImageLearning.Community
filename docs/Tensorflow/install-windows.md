@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Tensorflow Overview
+title: Windows Install
 nav_order: 1
 has_children: false
-parent: nstall
+parent: Installing Tensorflow
 grandparent: Tensorflow
 ---
