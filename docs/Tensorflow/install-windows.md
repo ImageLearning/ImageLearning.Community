@@ -50,6 +50,18 @@ If you wish to install multiple GPU's with an NVLink and setup a [Tesla compute 
 - Try copying it from a different machine. _AFAIK, it's just a front end and toggles some settings that users can't touch_
 - Google for it, then see if a driver upgrade _(when you have the folder)_ upgrades it
 
+On the machine I am using, the following .bat file does the trick
+
+```bat
+@echo on
+C:\
+cd /d "c:\Program Files\NVIDIA Corporation\NVSMI"
+nvidia-smi.exe -L
+pause
+nvidia-smi.exe -i 0 -dm TCC
+nvidia-smi.exe -i 1 -dm TCC
+pause
+```
 
 Once you have it correctly installed
 - Open an Admin Level Command prompt
