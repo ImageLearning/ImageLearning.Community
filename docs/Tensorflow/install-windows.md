@@ -50,7 +50,12 @@ If you wish to install multiple GPU's with an NVLink and setup a [Tesla compute 
 - Try copying it from a different machine. _AFAIK, it's just a front end and toggles some settings that users can't touch_
 - Google for it, then see if a driver upgrade _(when you have the folder)_ upgrades it
 
-On the machine I am using, the following .bat file does the trick
+Once you have it correctly installed
+1. Open an Admin Level Command prompt
+1. CD to "c:\Program Files\NVIDIA Corporation\NVSMI"
+1. Run "nvidia-smi.exe -L"  to list your devices
+1. run "nvidia-smi.exe -i # -dm TCC" replacing # with the # from the step above for every GPU you wish to add to the telsa compute cluster
+- On the machine I am using, the following .bat file does the trick
 
 ```bat
 @echo on
@@ -63,11 +68,6 @@ nvidia-smi.exe -i 1 -dm TCC
 pause
 ```
 
-Once you have it correctly installed
-- Open an Admin Level Command prompt
-- CD to "c:\Program Files\NVIDIA Corporation\NVSMI"
-- Run "nvidia-smi.exe -L"  to list your devices
-- run "nvidia-smi.exe -i # -dm TCC" replacing # with the # from the step above for every GPU you wish to add to the telsa compute cluster
 
 ### External Instructions
 
