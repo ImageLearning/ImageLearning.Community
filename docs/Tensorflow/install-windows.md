@@ -30,7 +30,7 @@ The tensorflow pip package is built with CUDA 10.1 and cuDNN 7.6.
 [cuDNN](https://developer.nvidia.com/cudnn) You want 7.6 for Tensorflow 2.1
 - [cuDNN Download](https://developer.nvidia.com/rdp/cudnn-download)
 
-[TensorRT Installation Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-install-guide/index.html_
+[TensorRT Installation Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-install-guide/index.html)
 - [TensorRT](https://developer.nvidia.com/tensorrt)
 
 ### External Instructions
