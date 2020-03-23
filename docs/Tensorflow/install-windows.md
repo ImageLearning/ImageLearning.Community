@@ -11,18 +11,27 @@ has_children: false
 
 We will be installing Tensorflow 2, with GPU support (Nvidia GPU's w/ CUDA) on windows. Today, since the [Container option](install-container.md) does not support the CUDA features we need, we will not use that. When that does, that will be the reccommend path.
 
-## Windows Pre-Req's
 
-- Visual Studio 
+## Tensorflow 2.1 Install
 
-## Tensorflow Pre-Req's
+[2.1 Tensorflow Release Notes](https://github.com/tensorflow/tensorflow/releases/tag/v2.1.0)
 
-- Lots of Nvidia stuff
-- Python
+[Source Zip](https://github.com/tensorflow/tensorflow/archive/v2.1.0.zip)
 
-## Tensorflow install itself
+The tensorflow pip package is built with CUDA 10.1 and cuDNN 7.6.
 
-## Testing our Install
+### Windows
+
+[Visual C++ Redist](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+
+[Cuda Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) You want 10.1 for Tensorflow 2.1
+- [Cuda Toolkit Update 2](https://developer.nvidia.com/cuda-10.1-download-archive-update2)
+
+[cuDNN](https://developer.nvidia.com/cudnn) You want 7.6 for Tensorflow 2.1
+- [cuDNN Download](https://developer.nvidia.com/rdp/cudnn-download)
+
+[TensorRT Installation Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-install-guide/index.html_
+- [TensorRT](https://developer.nvidia.com/tensorrt)
 
 ### External Instructions
 
