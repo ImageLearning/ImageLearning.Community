@@ -22,16 +22,17 @@ The tensorflow pip package is built with CUDA 10.1 and cuDNN 7.6.
 
 ### Windows
 
-- [Visual C++ Redist](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
-- [Cuda Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) You want 10.1 for Tensorflow 2.1
+1. [Visual C++ Redist](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+1. [Cuda Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) You want 10.1 for Tensorflow 2.1
     - [Cuda Toolkit Update 2](https://developer.nvidia.com/cuda-10.1-download-archive-update2)
     - Use the Default Install Path
     - Add it to your _%PATH%_ Variable
-- [cuDNN](https://developer.nvidia.com/cudnn) You want 7.6 for Tensorflow 2.1
+1. [cuDNN](https://developer.nvidia.com/cudnn) You want 7.6 for Tensorflow 2.1
     - [cuDNN Download](https://developer.nvidia.com/rdp/cudnn-download)
-    - Put in the Install path used for Cuda
-    - Add it to your _%PATH%_ Variable
-- [TensorRT Installation Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-install-guide/index.html)
+    - Put the files from 'cuda\' in the Install path used for Cuda set 
+        - likely 'CUDA\v10.1\' 
+    - You added this to your _%PATH%_ variable in the last step. no need to do it now
+1. [TensorRT Installation Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-install-guide/index.html)
     - [TensorRT](https://developer.nvidia.com/tensorrt)
 
 
