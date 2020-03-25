@@ -68,6 +68,22 @@ nvidia-smi.exe -i 1 -dm TCC
 pause
 ```
 
+### Python Sources
+
+**Python**
+
+- Install from https://www.python.org
+- Use pip to install and manage packages
+
+**Anaconda / MiniConda**
+
+- Install from [Anaconda](https://www.anaconda.com/distribution/) or [Conda](https://docs.conda.io/en/latest/miniconda.html)
+- use conda and pip to manage packages
+
+**Visual Studio Managed**
+
+- Install with Visual Studio installer
+- manage packages within [the visual studio UI](https://docs.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-05-installing-packages?view=vs-2019)
 
 ### External Instructions
 
