@@ -39,6 +39,11 @@ The tensorflow pip package is built with CUDA 10.1 and cuDNN 7.6.
     - [TensorRT](https://developer.nvidia.com/tensorrt)
 1. [Python](https://www.python.org/downloads/) _You want version 3.7.7_
     - [3.7.7 Download and Release Notes](https://www.python.org/downloads/release/python-377/)
+1. Confirm PATH  Variables : https://www.tensorflow.org/install/gpu#windows_setup
+    - > CUDA bin : "SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;%PATH%" or just add the path in the enviornment editor instead of setting PATH=<somethingnew;%PATH% 
+    - > CUDA extras : "SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;%PATH%" or just add the path in the enviornment editor instead of setting PATH=<somethingnew;%PATH% 
+    - > CUDA include : "SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include;%PATH%" or just add the path in the enviornment editor instead of setting PATH=<somethingnew;%PATH% 
+    - > cuDNN tools : **EDIT SANITY CHECK THIS** "SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;%PATH%" or just add the path in the enviornment editor instead of setting PATH=<somethingnew;%PATH% 
 
 #### Tesla Compute Cluster
 
