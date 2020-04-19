@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Communit Content
+title: Community
 nav_order: 1
 has_children: false
 parent: Community Content
