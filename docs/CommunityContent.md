@@ -8,7 +8,7 @@ nav_exclude: false
 
 _There is a lot of community content available out there for Machine Learning, it can be hard to know what is up to date and what is out of date.._
 
-For [more information, please check out the Community Content Home page](docs/CommunityContent/Home.md)
+For [more information, please check out the Community Content Home page](/docs/CommunityContent/Home.md)
 
 # Awesome Lists
 
