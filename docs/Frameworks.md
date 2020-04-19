@@ -9,9 +9,7 @@ has_children: false
 
 # Machine Learning Frameworks
 
-[Tensorflow](/docs/Tensorflow.md)
-
-[Keras](/docs/Keras.md)
+[Tensorflow & Keras](docs/TensorflowIndex.md)
 
 [PyTorch](/docs/PyTorch.md)
 
