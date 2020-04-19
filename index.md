@@ -26,11 +26,6 @@ This site was created, because I was unable to find one reasonable source of inf
 [Pandas](/docs/PandasIndex.md)
 
 
-# Navigation Structure
-{: .no_toc }
+# Community Links
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+There is a lot of great community contnet out there, (_it is sometimes out of date_) check out [the community section](docs/CommunityContent/Home.md)
