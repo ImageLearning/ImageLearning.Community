@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community Content
-nav_order: 9
+nav_order: 2
 has_children: true
 nav_exclude: false
 ---
