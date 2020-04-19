@@ -13,3 +13,20 @@ parent: Community Content
 
 # Awesome Lists about Machine Learning
 
+https://github.com/jbhuang0604/awesome-computer-vision
+
+https://github.com/src-d/awesome-machine-learning-on-source-code
+
+https://github.com/josephmisiti/awesome-machine-learning
+
+https://github.com/jtoy/awesome-tensorflow
+
+https://github.com/terryum/awesome-deep-learning-papers
+
+https://github.com/guillaume-chevalier/awesome-deep-learning-resources
+
+https://github.com/ChristosChristofidis/awesome-deep-learning
+
+https://github.com/jbhuang0604/awesome-computer-vision
+
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
