@@ -18,4 +18,8 @@ https://github.com/ImageLearning
 
 # Curate Topics
 
+[Topics, and Collections on GithUb.com](Topics.md)
+
 # Write Tutorials
+
+_add list of tutorials here, find way to make sure they are up to date_
