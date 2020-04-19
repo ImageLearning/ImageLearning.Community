@@ -3,7 +3,7 @@ layout: default
 title: Windows Install
 nav_order: 2
 parent: Installing Tensorflow
-grand_parent: Tensorflow Home
+grand_parent: Tensorflow & Keras
 has_children: false
 ---
 
