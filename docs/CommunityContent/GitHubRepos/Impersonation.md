@@ -12,5 +12,5 @@ grand_parent: Community Content
 
 - **Description:**  Avatars for Skype and Zoom. Democratized.
     - Project Website : [Demo on Youtube](https://youtu.be/Q7LFDT-FRzs)
-    - GitHub Repo :  https://github.com/alievk/avatarify
+    - GitHub Repo :  [https://github.com/alievk/avatarify](https://github.com/alievk/avatarify)
 
