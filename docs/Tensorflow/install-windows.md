@@ -20,6 +20,8 @@ We will be installing Tensorflow 2, with GPU support (Nvidia GPU's w/ CUDA) on w
 
 The tensorflow pip package is built with CUDA 10.1 and cuDNN 7.6.
 
+WiP Video : https://youtu.be/vZtfbdmXN_s
+
 ### Windows
 
 1. [Visual C++ Redist](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
